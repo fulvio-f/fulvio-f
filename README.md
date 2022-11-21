@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello World! <img src="https://media1.giphy.com/media/VI2UC13hwWin1MIfmi/giphy.gif" width="20" height="15"/>
 
-<!--
-**fulvio-f/fulvio-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python3
+#!/usr/bin/python3
 
-Here are some ideas to get you started:
+class Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "Fulvio"
+        self.age = 23
+        self.code = ["Python", "JavaScript", "C/C++"]
+        self.languages = ["pt_BR", "en_US"]
+
+    def say_hello(self):
+        print("Hello there! :)")
+
+me = Me()
+me.say_hello()
+```
