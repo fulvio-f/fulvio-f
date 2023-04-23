@@ -1,4 +1,4 @@
-### Hello World! <img src="https://media1.giphy.com/media/VI2UC13hwWin1MIfmi/giphy.gif" width="20" height="15"/>
+### Hello World! <img src="https://media1.giphy.com/media/VI2UC13hwWin1MIfmi/giphy.gif" width="2%" height="4%"/>
 
 ```python3
 #!/usr/bin/python3
