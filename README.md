@@ -7,7 +7,6 @@ class Me:
 
     def __init__(self):
         self.name = "Fulvio"
-        self.age = 23
         self.code = ["Python", "JavaScript", "C/C++"]
         self.languages = ["pt_BR", "en_US"]
 
